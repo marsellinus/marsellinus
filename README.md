@@ -66,17 +66,17 @@
 
 <div align="center">
   <a href="https://github.com/marsellinus/undangan_nikah">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marsellinus&repo=undangan_nikah&theme=radical" alt="Undangan Nikah" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=marsellinus&repo=undangan_nikah&theme=radical" alt="Undangan Nikah" />
   </a>
   <a href="https://github.com/marsellinus/deadlock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marsellinus&repo=deadlock&theme=radical" alt="Deadlock" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=marsellinus&repo=deadlock&theme=radical" alt="Deadlock" />
   </a>
   <br />
   <a href="https://github.com/marsellinus/PWEB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marsellinus&repo=PWEB&theme=radical" alt="PWEB" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=marsellinus&repo=PWEB&theme=radical" alt="PWEB" />
   </a>
   <a href="https://github.com/marsellinus/RPL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marsellinus&repo=RPL&theme=radical" alt="RPL" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=marsellinus&repo=RPL&theme=radical" alt="RPL" />
   </a>
 </div>
 
@@ -85,8 +85,10 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marsellinus&show_icons=true&theme=radical" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsellinus&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=marsellinus&show_icons=true&theme=radical" alt="GitHub Stats" />  
+  <img src="https://streak-stats.demolab.com/?user=marsellinus&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marsellinus&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ---
